@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\Administrator\Desktop\Thi\DoAnCTDL\DoAnCTDL\main.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Administrator\Desktop\Thi\DoAnCTDL\DoAnCTDL\xu_ly_de.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Administrator\Desktop\Thi\DoAnCTDL\DoAnCTDL\chuc_nang_phu.h(21,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Administrator\Desktop\Thi\DoAnCTDL\DoAnCTDL\chuc_nang_phu.h(31,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Administrator\Desktop\Thi\DoAnCTDL\DoAnCTDL\xu_ly_de.h(96,8): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\Administrator\Desktop\Thi\DoAnCTDL\DoAnCTDL\xu_ly_de.h(131,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Administrator\Desktop\Thi\DoAnCTDL\DoAnCTDL\main.cpp(4,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  DoAnCTDL.vcxproj -> C:\Users\Administrator\Desktop\Thi\DoAnCTDL\Debug\DoAnCTDL.exe
